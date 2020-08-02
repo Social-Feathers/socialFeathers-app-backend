@@ -39,14 +39,24 @@ const database = {
 		{
 			id: "l1c1",
 			causeTitle: "food hunger problem",
+			date: new Date(),
+			address: " Wakanda, South Africa",
+			tag: "Healthcare",
 			causeDescription: "hunger problem problem problem",
-			status: "unfixed" 
+			status: "unfixed",
+			userImg: "",
+			userName: "Sally" 
 		},
 		{
 			id: "l1c2",
 			causeTitle: "no access to water etc",
+			date: new Date(),
+			address: " Wakanda, South Africa",
+			tag: "Healthcare",
 			causeDescription: "water problem problem problem",
 			status: "volunteers working!"
+			userImg: "",
+			userName: "johndoe"
 		}
 		]
 	}],
